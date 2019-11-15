@@ -1,10 +1,18 @@
 
-body {color:black;text-align: center;}
-body {background-color:powderblue;font-size: 150%;}
+body {color:whitesmoke;text-align: center;}
+body {;font-size: 150%;}
 body{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif}
+body {  
+    background-image: url("https://i.pinimg.com/originals/ae/77/1b/ae771b7e8140ed86eb38e966f0374a73.jpg");  
+    background-repeat: no-repeat; 
+}
 
-h1{font-size: 150%;color:black}
-p{color: black;; }
-ul li{color:black; list-style: none;}
+h1 h2 {font-size: 150%;color:whitesmoke}
+p{color: whitesmoke;; }
+ul li{color:whitesmoke; list-style: none;}
 figure {size: 10%}
-a {color:grey;}
+a {color:grey;text-decoration: none;}
+table,th,td{border: 1px solid;position: relative;left:300px}
+figure img {border:2px solid white;margin:auto;padding:auto; 
+position: relative;
+top:15px}
