@@ -1,0 +1,15 @@
+
+section img {border:10px solid black;
+            margin:5px;
+            padding:5px;
+            border-style: dotted;
+            border-color: rgb(49, 218, 153);
+            width: 25vmax;
+            height: auto;
+            opacity:1 ;
+}
+body{ background-image: url(https://www.clipartmax.com/png/middle/129-1298536_pokeball-free-icon-pokeball-icon.png);
+      background-repeat: repeat;
+      background-size: 10vmax;
+
+}
